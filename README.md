@@ -1,4 +1,4 @@
-# Monty Hall User's Choice Probability  
+# Monty Hall Problem
 ### This python program reveals the probability of user's choice to stay with their original guess or change it  
 
 In the gameshow the host, Monty Hall, ask the person to pick the door:  
